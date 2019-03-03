@@ -10,7 +10,7 @@ const App = () => (
       <br />
       If you want the react redux starter, checkout
       {' '}
-      <a href="http://github.com">this project</a>
+      <a href="https://github.com/thediggu/react-redux-starter">this project</a>
     </p>
   </div>
 );
